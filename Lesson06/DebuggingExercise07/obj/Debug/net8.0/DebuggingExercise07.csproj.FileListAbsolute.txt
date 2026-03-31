@@ -1,0 +1,14 @@
+C:\Users\main\source\SLStudio\Chapter01\Lesson08\DebuggingExercise07\bin\Debug\net8.0\DebuggingExercise07.exe
+C:\Users\main\source\SLStudio\Chapter01\Lesson08\DebuggingExercise07\bin\Debug\net8.0\DebuggingExercise07.deps.json
+C:\Users\main\source\SLStudio\Chapter01\Lesson08\DebuggingExercise07\bin\Debug\net8.0\DebuggingExercise07.runtimeconfig.json
+C:\Users\main\source\SLStudio\Chapter01\Lesson08\DebuggingExercise07\bin\Debug\net8.0\DebuggingExercise07.dll
+C:\Users\main\source\SLStudio\Chapter01\Lesson08\DebuggingExercise07\bin\Debug\net8.0\DebuggingExercise07.pdb
+C:\Users\main\source\SLStudio\Chapter01\Lesson08\DebuggingExercise07\obj\Debug\net8.0\DebuggingExercise07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\main\source\SLStudio\Chapter01\Lesson08\DebuggingExercise07\obj\Debug\net8.0\DebuggingExercise07.AssemblyInfoInputs.cache
+C:\Users\main\source\SLStudio\Chapter01\Lesson08\DebuggingExercise07\obj\Debug\net8.0\DebuggingExercise07.AssemblyInfo.cs
+C:\Users\main\source\SLStudio\Chapter01\Lesson08\DebuggingExercise07\obj\Debug\net8.0\DebuggingExercise07.csproj.CoreCompileInputs.cache
+C:\Users\main\source\SLStudio\Chapter01\Lesson08\DebuggingExercise07\obj\Debug\net8.0\DebuggingExercise07.dll
+C:\Users\main\source\SLStudio\Chapter01\Lesson08\DebuggingExercise07\obj\Debug\net8.0\refint\DebuggingExercise07.dll
+C:\Users\main\source\SLStudio\Chapter01\Lesson08\DebuggingExercise07\obj\Debug\net8.0\DebuggingExercise07.pdb
+C:\Users\main\source\SLStudio\Chapter01\Lesson08\DebuggingExercise07\obj\Debug\net8.0\DebuggingExercise07.genruntimeconfig.cache
+C:\Users\main\source\SLStudio\Chapter01\Lesson08\DebuggingExercise07\obj\Debug\net8.0\ref\DebuggingExercise07.dll
